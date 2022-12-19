@@ -1,0 +1,2 @@
+# schoolproject
+Practice in django
